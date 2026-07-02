@@ -182,7 +182,7 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 Your Name
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/g4urvw
 
 ---
 
